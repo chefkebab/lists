@@ -2,13 +2,13 @@
    {
       "sousId":0,
       "tokenName":"KEBAB",
-      "stakingTokenName":"QuoteToken.KEBAB",
+      "stakingTokenName":"KEBAB",
       "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
       "contractAddress":{
          "97":"0x3642f8ab6ab7113e0fab27f5434577ad4788f899",
          "56":"0x76FCeffFcf5325c6156cA89639b17464ea833ECd"
       },
-      "poolCategory":"PoolCategory.CORE",
+      "poolCategory":"Core",
       "projectLink":"http://kebabfinance.com/",
       "harvest":true,
       "tokenPerBlock":"0.24924924924",
@@ -20,13 +20,13 @@
    {
       "sousId":5,
       "tokenName":"BTCB",
-      "stakingTokenName":"QuoteToken.KEBAB",
+      "stakingTokenName":"KEBAB",
       "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
       "contractAddress":{
          "97":"",
          "56":"0x3cE0B242b365aa2299434525bcbDbd1e49b1675b"
       },
-      "poolCategory":"PoolCategory.CORE",
+      "poolCategory":"Core",
       "projectLink":"https://www.bitcoin.org/",
       "harvest":true,
       "tokenPerBlock":"0.00000035",
@@ -38,13 +38,13 @@
    {
       "sousId":7,
       "tokenName":"BTCB",
-      "stakingTokenName":"QuoteToken.KEBAB",
+      "stakingTokenName":"KEBAB",
       "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
       "contractAddress":{
          "97":"",
          "56":"0x3979613F4946D86Fca4BCA889eD084f59a56A49d"
       },
-      "poolCategory":"PoolCategory.CORE",
+      "poolCategory": "Core",
       "projectLink":"https://www.bitcoin.org/",
       "harvest":true,
       "tokenPerBlock":"0.00000030",
@@ -56,13 +56,13 @@
    {
       "sousId":4,
       "tokenName":"BNB",
-      "stakingTokenName":"QuoteToken.KEBAB",
+      "stakingTokenName":"KEBAB",
       "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
       "contractAddress":{
          "97":"",
          "56":"0x931A250b93249F58373dd3D9834Cda3684eE7dAF"
       },
-      "poolCategory":"PoolCategory.CORE",
+      "poolCategory":"Core",
       "projectLink":"https://www.binance.org",
       "harvest":true,
       "tokenPerBlock":"0.00003470",
@@ -74,13 +74,13 @@
    {
       "sousId":6,
       "tokenName":"BNB",
-      "stakingTokenName":"QuoteToken.KEBAB",
+      "stakingTokenName":"KEBAB",
       "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
       "contractAddress":{
          "97":"",
          "56":"0x1cdeA426b79aE0df4fe454D44eB3B3a968E8dd1c"
       },
-      "poolCategory":"PoolCategory.CORE",
+      "poolCategory":"Core",
       "projectLink":"https://www.binance.org",
       "harvest":true,
       "tokenPerBlock":"0.00002480",
