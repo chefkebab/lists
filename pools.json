@@ -54,24 +54,6 @@
       "tokenDecimals":18
    },
    {
-      "sousId":4,
-      "tokenName":"BNB",
-      "stakingTokenName":"KEBAB",
-      "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
-      "contractAddress":{
-         "97":"",
-         "56":"0x931A250b93249F58373dd3D9834Cda3684eE7dAF"
-      },
-      "poolCategory":"Core",
-      "projectLink":"https://www.binance.org",
-      "harvest":true,
-      "tokenPerBlock":"0.00003470",
-      "sortOrder":3,
-      "isFinished":true,
-      "isActive":false,
-      "tokenDecimals":18
-   },
-   {
       "sousId":6,
       "tokenName":"BNB",
       "stakingTokenName":"KEBAB",
@@ -84,6 +66,24 @@
       "projectLink":"https://www.binance.org",
       "harvest":true,
       "tokenPerBlock":"0.00002480",
+      "sortOrder":3,
+      "isFinished":true,
+      "isActive":false,
+      "tokenDecimals":18
+   },
+   {
+      "sousId":8,
+      "tokenName":"BNB",
+      "stakingTokenName":"KEBAB",
+      "stakingTokenAddress":"0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
+      "contractAddress":{
+         "97":"",
+         "56":"0xfDe0C0F8De7563cBcf74357204b446eF325EAa60"
+      },
+      "poolCategory":"Core",
+      "projectLink":"https://www.binance.org",
+      "harvest":true,
+      "tokenPerBlock":"0.00002470",
       "sortOrder":3,
       "isFinished":false,
       "isActive":true,
