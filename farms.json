@@ -78,6 +78,26 @@
     "multiplier": "12X"
   },
   {
+    "pid": 17,
+    "lpSymbol": "KSLV-KEBAB LP",
+    "lpAddresses": {
+      "97": "0x4cb4610b3a201eec3f272b312dacc2ef2c2cbc10",
+      "56": "0x4cb4610b3a201eec3f272b312dacc2ef2c2cbc10"
+    },
+    "tokenSymbol": "KSLV",
+    "tokenAddresses": {
+      "97": "0x58b8e295fc5b705bcbb48c5978b2b389332e0414",
+      "56": "0x58b8e295fc5b705bcbb48c5978b2b389332e0414"
+    },
+    "risk": 2,
+    "quoteTokenSymbol": "KEBAB",
+    "quoteTokenAdresses": {
+      "56": "0x7979f6c54eba05e18ded44c4f986f49a5de551c2",
+      "97": "0x7979f6c54eba05e18ded44c4f986f49a5de551c2"
+    },
+    "multiplier": "5X"
+  },
+  {
     "pid": 4,
     "lpSymbol": "BTCB-BUSD LP",
     "lpAddresses": {
